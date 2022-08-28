@@ -1,3 +1,11 @@
+//@LionoMaker
+//paractice this code on Platformio
+/*
+Note:
+Reference liberary by hideakitai:
+<https://github.com/hideakitai/ESP32SPISlave>
+*/
+
 #include<Arduino.h>
 #include <ESP32SPISlave.h>
 
